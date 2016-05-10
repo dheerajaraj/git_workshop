@@ -1,0 +1,11 @@
+git init-Initializes new repository
+
+git add- adds the file to the staging area
+git- commit adds the file to the repository often comes along with a fix message
+
+git log- log of the changes
+git log --oneline gets the details of commits and presents it in condensed way. 
+
+git status- to check whether there is any file on staging area that needs to be added to the repository. 
+
+git diff- checks if there is any file in the working directory
